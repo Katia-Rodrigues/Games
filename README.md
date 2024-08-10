@@ -12,7 +12,7 @@ Bem-vindo ao **Jogo da Memória**! Este é um jogo simples desenvolvido com HTML
 
 ### Tela de Login
 
-![Tela de Login](/images/outras-imagens/Tela-Login.png)
+![Tela de Login](./images/outras-imagens/Tela-Login.png)
 
 Descrição da tela de login. Aqui você insere seu nome e clica em "Jogar" para iniciar o jogo.
 
